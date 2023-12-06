@@ -1,0 +1,8 @@
+setup.py
+customer_pack/__init__.py
+customer_pack/modulo1.py
+customer_pack/modulo2.py
+customer_pack.egg-info/PKG-INFO
+customer_pack.egg-info/SOURCES.txt
+customer_pack.egg-info/dependency_links.txt
+customer_pack.egg-info/top_level.txt
